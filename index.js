@@ -182,6 +182,8 @@ return `We need ${tomatoes} gram tomatoes, ${wheat} gram wheat, ${cheese} gram c
   }
   
   console.log(totalNumberofIndrigientsPerYear(PizzaObject))
+  const changes="member push";
+  console.log(changes);
   */
 
   import fs from 'fs'
